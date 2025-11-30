@@ -75,4 +75,6 @@ while True:
     elif ChooseOpt == '4':
         clear_all()
     else:
-        print("Try Again")
+        print("Invalid Input, Try Again")
+
+# Return
