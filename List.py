@@ -29,7 +29,7 @@ while True:
     ChooseOpt = input("Choose Option (0-4): ").capitalize()
 
     def view_task():
-        print(Task)
+        print(Task, 'Updated Task/s')
         print('Keep up the good work!')
 
     def add_task():
