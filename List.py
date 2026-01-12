@@ -21,9 +21,9 @@ def Edit():
 
 while True:
     print('Checking...')
-    time.sleep(3)
+    time.sleep(1.5)
     print(Task,"Current Task")
-    time.sleep(2)
+    time.sleep(1)
     Edit()
 
     ChooseOpt = input("Choose Option (0-4): ").capitalize()
